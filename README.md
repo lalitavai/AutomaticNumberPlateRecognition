@@ -2,6 +2,7 @@
 
 ## Overview
 Automatic Number Plate Recognition (ANPR) is a crucial component of Electronic Toll Collection (ETC) systems. The primary objective of this project is to detect and recognize vehicle registration plates from images. This involves processing a dataset containing labeled images of vehicle registration plates.
+![Alt text](NPL-detection.png)
 
 ## Dataset
 The dataset for this project can be downloaded from the following link:
